@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Aaron
+   last: Ye
+email: zy288@nyu.edu
+leaderboard: zzi9397
